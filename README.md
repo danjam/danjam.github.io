@@ -1,2 +1,2 @@
-[Slim Mustache View](./slim-mustache-view)
-[Clump](./clump)
+* [Slim Mustache View](./slim-mustache-view)
+* [Clump](./clump)
